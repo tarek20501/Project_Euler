@@ -12,4 +12,3 @@ for x in range(1,below):
 		#print (x)
 		summ = summ + x	
 print(summ)
-
